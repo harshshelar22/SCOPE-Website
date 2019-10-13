@@ -20,9 +20,25 @@
     box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);     
 }
 
-.card-img-top{
+.img-top{
     height: 4em;
     width: 4em;
     
     margin: 0 auto;
+}
+
+svg{
+    height: 5em;
+    width: auto;
+    margin: 0 auto;
+}
+
+.cta{
+    background-image: url('https://www.udacity.com/assets/iridium/images/new-home/experiments/home-b/bg-ready-to-begin.svg');
+    
+    text-align: center;
+    padding: 4em;
+
+    color: white;
+    
 }
